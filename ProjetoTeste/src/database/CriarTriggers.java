@@ -1,0 +1,3 @@
+package database;
+
+// TRIGGERS -> VERIFICAM ANTES DA EXECUÇÃO E/OU DEPOIS DA EXECUÇÃO
